@@ -7,9 +7,9 @@ namespace _01._Bombs
     class Program
     {
         static void Main(string[] args)
-        {
-            
-
+        { 
+                
+                       
             Queue<int> effects = new Queue<int>
                 (Console.ReadLine().Split(", ").Select(int.Parse).ToList());
             Stack<int> casings = new Stack<int>
