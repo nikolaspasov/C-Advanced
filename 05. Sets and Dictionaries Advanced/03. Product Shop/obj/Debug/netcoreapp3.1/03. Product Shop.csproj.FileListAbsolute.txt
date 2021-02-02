@@ -1,0 +1,13 @@
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.exe
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.deps.json
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.runtimeconfig.json
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.runtimeconfig.dev.json
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.dll
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.pdb
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.csprojAssemblyReference.cache
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.csproj.CoreCompileInputs.cache
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.AssemblyInfoInputs.cache
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.AssemblyInfo.cs
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.dll
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.pdb
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.genruntimeconfig.cache

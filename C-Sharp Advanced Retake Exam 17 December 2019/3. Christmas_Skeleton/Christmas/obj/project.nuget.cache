@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tFicdRBQJCRNeCeSN5Ga0/cXV6f0TItqhy1sl8HLzmhcebwdis1giUZFqoQIQFeXA+m4cieHLc2/HxrUAroaDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\belin\\Desktop\\C# Advanced\\C-Sharp Advanced Retake Exam 17 December 2019\\3. Christmas_Skeleton\\Christmas\\Christmas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\belin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\belin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\belin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\belin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

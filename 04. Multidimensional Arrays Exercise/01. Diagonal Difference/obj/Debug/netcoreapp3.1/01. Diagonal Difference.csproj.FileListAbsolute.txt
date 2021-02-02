@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\01. Diagonal Difference\bin\Debug\netcoreapp3.1\01. Diagonal Difference.exe
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\01. Diagonal Difference\bin\Debug\netcoreapp3.1\01. Diagonal Difference.deps.json
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\01. Diagonal Difference\bin\Debug\netcoreapp3.1\01. Diagonal Difference.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\01. Diagonal Difference\bin\Debug\netcoreapp3.1\01. Diagonal Difference.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\01. Diagonal Difference\bin\Debug\netcoreapp3.1\01. Diagonal Difference.dll
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\01. Diagonal Difference\bin\Debug\netcoreapp3.1\01. Diagonal Difference.pdb
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.dll
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.pdb
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.genruntimeconfig.cache

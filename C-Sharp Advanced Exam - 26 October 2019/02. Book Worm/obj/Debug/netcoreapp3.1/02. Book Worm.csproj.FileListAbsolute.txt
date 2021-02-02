@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\02. Book Worm\bin\Debug\netcoreapp3.1\02. Book Worm.exe
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\02. Book Worm\bin\Debug\netcoreapp3.1\02. Book Worm.deps.json
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\02. Book Worm\bin\Debug\netcoreapp3.1\02. Book Worm.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\02. Book Worm\bin\Debug\netcoreapp3.1\02. Book Worm.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\02. Book Worm\bin\Debug\netcoreapp3.1\02. Book Worm.dll
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\02. Book Worm\bin\Debug\netcoreapp3.1\02. Book Worm.pdb
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\02. Book Worm\obj\Debug\netcoreapp3.1\02. Book Worm.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\02. Book Worm\obj\Debug\netcoreapp3.1\02. Book Worm.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\02. Book Worm\obj\Debug\netcoreapp3.1\02. Book Worm.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\02. Book Worm\obj\Debug\netcoreapp3.1\02. Book Worm.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\02. Book Worm\obj\Debug\netcoreapp3.1\02. Book Worm.dll
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\02. Book Worm\obj\Debug\netcoreapp3.1\02. Book Worm.pdb
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\02. Book Worm\obj\Debug\netcoreapp3.1\02. Book Worm.genruntimeconfig.cache

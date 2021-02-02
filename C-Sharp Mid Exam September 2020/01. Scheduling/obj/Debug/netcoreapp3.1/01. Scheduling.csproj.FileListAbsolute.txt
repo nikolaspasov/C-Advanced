@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.exe
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.deps.json
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.dll
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.pdb
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.dll
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.pdb
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.exe
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.deps.json
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.dll
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.pdb
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.dll
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.pdb
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Mid Exam September 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.genruntimeconfig.cache

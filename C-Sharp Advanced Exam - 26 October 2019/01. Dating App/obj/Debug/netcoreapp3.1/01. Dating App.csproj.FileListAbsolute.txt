@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\01. Dating App\bin\Debug\netcoreapp3.1\01. Dating App.exe
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\01. Dating App\bin\Debug\netcoreapp3.1\01. Dating App.deps.json
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\01. Dating App\bin\Debug\netcoreapp3.1\01. Dating App.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\01. Dating App\bin\Debug\netcoreapp3.1\01. Dating App.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\01. Dating App\bin\Debug\netcoreapp3.1\01. Dating App.dll
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\01. Dating App\bin\Debug\netcoreapp3.1\01. Dating App.pdb
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\01. Dating App\obj\Debug\netcoreapp3.1\01. Dating App.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\01. Dating App\obj\Debug\netcoreapp3.1\01. Dating App.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\01. Dating App\obj\Debug\netcoreapp3.1\01. Dating App.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\01. Dating App\obj\Debug\netcoreapp3.1\01. Dating App.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\01. Dating App\obj\Debug\netcoreapp3.1\01. Dating App.dll
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\01. Dating App\obj\Debug\netcoreapp3.1\01. Dating App.pdb
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Exam - 26 October 2019\01. Dating App\obj\Debug\netcoreapp3.1\01. Dating App.genruntimeconfig.cache

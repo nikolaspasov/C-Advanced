@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\02. Squares in Matrix\bin\Debug\netcoreapp3.1\02. Squares in Matrix.exe
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\02. Squares in Matrix\bin\Debug\netcoreapp3.1\02. Squares in Matrix.deps.json
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\02. Squares in Matrix\bin\Debug\netcoreapp3.1\02. Squares in Matrix.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\02. Squares in Matrix\bin\Debug\netcoreapp3.1\02. Squares in Matrix.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\02. Squares in Matrix\bin\Debug\netcoreapp3.1\02. Squares in Matrix.dll
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\02. Squares in Matrix\bin\Debug\netcoreapp3.1\02. Squares in Matrix.pdb
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\02. Squares in Matrix\obj\Debug\netcoreapp3.1\02. Squares in Matrix.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\02. Squares in Matrix\obj\Debug\netcoreapp3.1\02. Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\02. Squares in Matrix\obj\Debug\netcoreapp3.1\02. Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\02. Squares in Matrix\obj\Debug\netcoreapp3.1\02. Squares in Matrix.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\02. Squares in Matrix\obj\Debug\netcoreapp3.1\02. Squares in Matrix.dll
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\02. Squares in Matrix\obj\Debug\netcoreapp3.1\02. Squares in Matrix.pdb
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\02. Squares in Matrix\obj\Debug\netcoreapp3.1\02. Squares in Matrix.genruntimeconfig.cache

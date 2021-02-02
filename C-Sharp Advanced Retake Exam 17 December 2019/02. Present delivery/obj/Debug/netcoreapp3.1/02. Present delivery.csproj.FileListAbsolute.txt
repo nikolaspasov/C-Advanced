@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\02. Present delivery\bin\Debug\netcoreapp3.1\02. Present delivery.exe
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\02. Present delivery\bin\Debug\netcoreapp3.1\02. Present delivery.deps.json
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\02. Present delivery\bin\Debug\netcoreapp3.1\02. Present delivery.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\02. Present delivery\bin\Debug\netcoreapp3.1\02. Present delivery.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\02. Present delivery\bin\Debug\netcoreapp3.1\02. Present delivery.dll
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\02. Present delivery\bin\Debug\netcoreapp3.1\02. Present delivery.pdb
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\02. Present delivery\obj\Debug\netcoreapp3.1\02. Present delivery.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\02. Present delivery\obj\Debug\netcoreapp3.1\02. Present delivery.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\02. Present delivery\obj\Debug\netcoreapp3.1\02. Present delivery.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\02. Present delivery\obj\Debug\netcoreapp3.1\02. Present delivery.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\02. Present delivery\obj\Debug\netcoreapp3.1\02. Present delivery.dll
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\02. Present delivery\obj\Debug\netcoreapp3.1\02. Present delivery.pdb
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\02. Present delivery\obj\Debug\netcoreapp3.1\02. Present delivery.genruntimeconfig.cache

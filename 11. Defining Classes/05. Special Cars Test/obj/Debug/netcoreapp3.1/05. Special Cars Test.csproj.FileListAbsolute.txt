@@ -1,0 +1,12 @@
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\05. Special Cars Test\bin\Debug\netcoreapp3.1\05. Special Cars Test.exe
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\05. Special Cars Test\bin\Debug\netcoreapp3.1\05. Special Cars Test.deps.json
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\05. Special Cars Test\bin\Debug\netcoreapp3.1\05. Special Cars Test.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\05. Special Cars Test\bin\Debug\netcoreapp3.1\05. Special Cars Test.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\05. Special Cars Test\bin\Debug\netcoreapp3.1\05. Special Cars Test.dll
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\05. Special Cars Test\bin\Debug\netcoreapp3.1\05. Special Cars Test.pdb
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\05. Special Cars Test\obj\Debug\netcoreapp3.1\05. Special Cars Test.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\05. Special Cars Test\obj\Debug\netcoreapp3.1\05. Special Cars Test.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\05. Special Cars Test\obj\Debug\netcoreapp3.1\05. Special Cars Test.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\05. Special Cars Test\obj\Debug\netcoreapp3.1\05. Special Cars Test.dll
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\05. Special Cars Test\obj\Debug\netcoreapp3.1\05. Special Cars Test.pdb
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\05. Special Cars Test\obj\Debug\netcoreapp3.1\05. Special Cars Test.genruntimeconfig.cache

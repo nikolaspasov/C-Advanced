@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\01. Santa's Present Factory\bin\Debug\netcoreapp3.1\01. Santa's Present Factory.exe
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\01. Santa's Present Factory\bin\Debug\netcoreapp3.1\01. Santa's Present Factory.deps.json
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\01. Santa's Present Factory\bin\Debug\netcoreapp3.1\01. Santa's Present Factory.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\01. Santa's Present Factory\bin\Debug\netcoreapp3.1\01. Santa's Present Factory.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\01. Santa's Present Factory\bin\Debug\netcoreapp3.1\01. Santa's Present Factory.dll
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\01. Santa's Present Factory\bin\Debug\netcoreapp3.1\01. Santa's Present Factory.pdb
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\01. Santa's Present Factory\obj\Debug\netcoreapp3.1\01. Santa's Present Factory.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\01. Santa's Present Factory\obj\Debug\netcoreapp3.1\01. Santa's Present Factory.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\01. Santa's Present Factory\obj\Debug\netcoreapp3.1\01. Santa's Present Factory.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\01. Santa's Present Factory\obj\Debug\netcoreapp3.1\01. Santa's Present Factory.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\01. Santa's Present Factory\obj\Debug\netcoreapp3.1\01. Santa's Present Factory.dll
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\01. Santa's Present Factory\obj\Debug\netcoreapp3.1\01. Santa's Present Factory.pdb
+C:\Users\belin\Desktop\C# Advanced\C-Sharp Advanced Retake Exam 17 December 2019\01. Santa's Present Factory\obj\Debug\netcoreapp3.1\01. Santa's Present Factory.genruntimeconfig.cache

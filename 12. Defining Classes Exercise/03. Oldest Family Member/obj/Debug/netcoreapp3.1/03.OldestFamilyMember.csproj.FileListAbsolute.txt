@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.exe
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.deps.json
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.dll
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.pdb
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.dll
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.pdb
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.genruntimeconfig.cache

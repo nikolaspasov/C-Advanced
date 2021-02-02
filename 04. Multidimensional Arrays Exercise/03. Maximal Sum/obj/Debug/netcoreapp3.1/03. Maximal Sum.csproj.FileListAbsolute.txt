@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.exe
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.deps.json
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.dll
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.pdb
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.dll
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.pdb
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.genruntimeconfig.cache

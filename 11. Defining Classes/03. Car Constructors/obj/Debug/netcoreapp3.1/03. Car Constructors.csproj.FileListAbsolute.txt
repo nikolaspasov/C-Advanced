@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.exe
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.deps.json
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.dll
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.pdb
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.dll
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.pdb
+C:\Users\belin\Desktop\C# Advanced\11. Defining Classes\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.genruntimeconfig.cache

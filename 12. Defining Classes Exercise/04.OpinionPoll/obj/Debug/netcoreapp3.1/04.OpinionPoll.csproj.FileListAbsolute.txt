@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.exe
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.deps.json
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.dll
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.pdb
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.dll
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.pdb
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.genruntimeconfig.cache

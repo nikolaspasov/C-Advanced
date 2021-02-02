@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\04. Streams, Files and Directories Exercise\04. Streams, Files and Directories Exercise\obj\Debug\netcoreapp3.1\01. Even Lines.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\04. Streams, Files and Directories Exercise\04. Streams, Files and Directories Exercise\obj\Debug\netcoreapp3.1\01. Even Lines.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\04. Streams, Files and Directories Exercise\04. Streams, Files and Directories Exercise\obj\Debug\netcoreapp3.1\01. Even Lines.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\04. Streams, Files and Directories Exercise\04. Streams, Files and Directories Exercise\obj\Debug\netcoreapp3.1\01. Even Lines.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\04. Streams, Files and Directories Exercise\04. Streams, Files and Directories Exercise\bin\Debug\netcoreapp3.1\01. Even Lines.exe
+C:\Users\belin\Desktop\C# Advanced\04. Streams, Files and Directories Exercise\04. Streams, Files and Directories Exercise\bin\Debug\netcoreapp3.1\01. Even Lines.deps.json
+C:\Users\belin\Desktop\C# Advanced\04. Streams, Files and Directories Exercise\04. Streams, Files and Directories Exercise\bin\Debug\netcoreapp3.1\01. Even Lines.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\04. Streams, Files and Directories Exercise\04. Streams, Files and Directories Exercise\bin\Debug\netcoreapp3.1\01. Even Lines.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\04. Streams, Files and Directories Exercise\04. Streams, Files and Directories Exercise\bin\Debug\netcoreapp3.1\01. Even Lines.dll
+C:\Users\belin\Desktop\C# Advanced\04. Streams, Files and Directories Exercise\04. Streams, Files and Directories Exercise\bin\Debug\netcoreapp3.1\01. Even Lines.pdb
+C:\Users\belin\Desktop\C# Advanced\04. Streams, Files and Directories Exercise\04. Streams, Files and Directories Exercise\obj\Debug\netcoreapp3.1\01. Even Lines.dll
+C:\Users\belin\Desktop\C# Advanced\04. Streams, Files and Directories Exercise\04. Streams, Files and Directories Exercise\obj\Debug\netcoreapp3.1\01. Even Lines.pdb
+C:\Users\belin\Desktop\C# Advanced\04. Streams, Files and Directories Exercise\04. Streams, Files and Directories Exercise\obj\Debug\netcoreapp3.1\01. Even Lines.genruntimeconfig.cache

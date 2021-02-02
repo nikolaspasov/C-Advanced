@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01. Define a Class Person.exe
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01. Define a Class Person.deps.json
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01. Define a Class Person.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01. Define a Class Person.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01. Define a Class Person.dll
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01. Define a Class Person.pdb
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.dll
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.pdb
+C:\Users\belin\Desktop\C# Advanced\12. Defining Classes Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.genruntimeconfig.cache

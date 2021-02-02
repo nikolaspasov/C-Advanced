@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\ConsoleApp1\07. Hot Potato\bin\Debug\netcoreapp3.1\07. Hot Potato.exe
+C:\Users\belin\Desktop\C# Advanced\ConsoleApp1\07. Hot Potato\bin\Debug\netcoreapp3.1\07. Hot Potato.deps.json
+C:\Users\belin\Desktop\C# Advanced\ConsoleApp1\07. Hot Potato\bin\Debug\netcoreapp3.1\07. Hot Potato.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\ConsoleApp1\07. Hot Potato\bin\Debug\netcoreapp3.1\07. Hot Potato.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\ConsoleApp1\07. Hot Potato\bin\Debug\netcoreapp3.1\07. Hot Potato.dll
+C:\Users\belin\Desktop\C# Advanced\ConsoleApp1\07. Hot Potato\bin\Debug\netcoreapp3.1\07. Hot Potato.pdb
+C:\Users\belin\Desktop\C# Advanced\ConsoleApp1\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\ConsoleApp1\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\ConsoleApp1\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\ConsoleApp1\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\ConsoleApp1\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.dll
+C:\Users\belin\Desktop\C# Advanced\ConsoleApp1\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.pdb
+C:\Users\belin\Desktop\C# Advanced\ConsoleApp1\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\09. Functional Programming\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.exe
+C:\Users\belin\Desktop\C# Advanced\09. Functional Programming\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.deps.json
+C:\Users\belin\Desktop\C# Advanced\09. Functional Programming\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\09. Functional Programming\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\09. Functional Programming\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.dll
+C:\Users\belin\Desktop\C# Advanced\09. Functional Programming\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.pdb
+C:\Users\belin\Desktop\C# Advanced\09. Functional Programming\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\09. Functional Programming\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\09. Functional Programming\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\09. Functional Programming\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\09. Functional Programming\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.dll
+C:\Users\belin\Desktop\C# Advanced\09. Functional Programming\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.pdb
+C:\Users\belin\Desktop\C# Advanced\09. Functional Programming\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.genruntimeconfig.cache

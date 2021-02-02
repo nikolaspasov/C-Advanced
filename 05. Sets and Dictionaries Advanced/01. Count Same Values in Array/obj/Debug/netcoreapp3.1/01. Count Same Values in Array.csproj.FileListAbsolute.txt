@@ -1,0 +1,13 @@
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.exe
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.deps.json
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.runtimeconfig.json
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.runtimeconfig.dev.json
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.dll
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.pdb
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.csprojAssemblyReference.cache
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.csproj.CoreCompileInputs.cache
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.AssemblyInfoInputs.cache
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.AssemblyInfo.cs
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.dll
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.pdb
+C:\Users\belin\source\repos\05. Sets and Dictionaries Advanced\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.genruntimeconfig.cache

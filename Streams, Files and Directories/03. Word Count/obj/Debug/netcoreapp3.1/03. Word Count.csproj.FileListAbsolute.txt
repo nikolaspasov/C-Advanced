@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\Streams, Files and Directories\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.exe
+C:\Users\belin\Desktop\C# Advanced\Streams, Files and Directories\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.deps.json
+C:\Users\belin\Desktop\C# Advanced\Streams, Files and Directories\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\Streams, Files and Directories\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\Streams, Files and Directories\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.dll
+C:\Users\belin\Desktop\C# Advanced\Streams, Files and Directories\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.pdb
+C:\Users\belin\Desktop\C# Advanced\Streams, Files and Directories\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\Streams, Files and Directories\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\Streams, Files and Directories\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\Streams, Files and Directories\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\Streams, Files and Directories\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.dll
+C:\Users\belin\Desktop\C# Advanced\Streams, Files and Directories\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.pdb
+C:\Users\belin\Desktop\C# Advanced\Streams, Files and Directories\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.genruntimeconfig.cache

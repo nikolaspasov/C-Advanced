@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.exe
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.deps.json
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.dll
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.pdb
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.dll
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.pdb
+C:\Users\belin\Desktop\C# Advanced\04. Multidimensional Arrays Exercise\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.genruntimeconfig.cache

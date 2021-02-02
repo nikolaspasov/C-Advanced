@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\19. Exam Preparation\02. Snake Help\obj\Debug\netcoreapp3.1\02. Snake Help.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\19. Exam Preparation\02. Snake Help\obj\Debug\netcoreapp3.1\02. Snake Help.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\19. Exam Preparation\02. Snake Help\obj\Debug\netcoreapp3.1\02. Snake Help.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\19. Exam Preparation\02. Snake Help\obj\Debug\netcoreapp3.1\02. Snake Help.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\19. Exam Preparation\02. Snake Help\bin\Debug\netcoreapp3.1\02. Snake Help.exe
+C:\Users\belin\Desktop\C# Advanced\19. Exam Preparation\02. Snake Help\bin\Debug\netcoreapp3.1\02. Snake Help.deps.json
+C:\Users\belin\Desktop\C# Advanced\19. Exam Preparation\02. Snake Help\bin\Debug\netcoreapp3.1\02. Snake Help.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\19. Exam Preparation\02. Snake Help\bin\Debug\netcoreapp3.1\02. Snake Help.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\19. Exam Preparation\02. Snake Help\bin\Debug\netcoreapp3.1\02. Snake Help.dll
+C:\Users\belin\Desktop\C# Advanced\19. Exam Preparation\02. Snake Help\bin\Debug\netcoreapp3.1\02. Snake Help.pdb
+C:\Users\belin\Desktop\C# Advanced\19. Exam Preparation\02. Snake Help\obj\Debug\netcoreapp3.1\02. Snake Help.dll
+C:\Users\belin\Desktop\C# Advanced\19. Exam Preparation\02. Snake Help\obj\Debug\netcoreapp3.1\02. Snake Help.pdb
+C:\Users\belin\Desktop\C# Advanced\19. Exam Preparation\02. Snake Help\obj\Debug\netcoreapp3.1\02. Snake Help.genruntimeconfig.cache

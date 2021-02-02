@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Advanced\05. Sets and Dictionaries Advanced\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.exe
+C:\Users\belin\Desktop\C# Advanced\05. Sets and Dictionaries Advanced\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.deps.json
+C:\Users\belin\Desktop\C# Advanced\05. Sets and Dictionaries Advanced\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.runtimeconfig.json
+C:\Users\belin\Desktop\C# Advanced\05. Sets and Dictionaries Advanced\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Advanced\05. Sets and Dictionaries Advanced\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.dll
+C:\Users\belin\Desktop\C# Advanced\05. Sets and Dictionaries Advanced\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.pdb
+C:\Users\belin\Desktop\C# Advanced\05. Sets and Dictionaries Advanced\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Advanced\05. Sets and Dictionaries Advanced\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Advanced\05. Sets and Dictionaries Advanced\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Advanced\05. Sets and Dictionaries Advanced\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Advanced\05. Sets and Dictionaries Advanced\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.dll
+C:\Users\belin\Desktop\C# Advanced\05. Sets and Dictionaries Advanced\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.pdb
+C:\Users\belin\Desktop\C# Advanced\05. Sets and Dictionaries Advanced\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.genruntimeconfig.cache
